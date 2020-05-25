@@ -1,0 +1,2 @@
+D:\git Code\C-practice\C++作业\Debug\C++作业.exe
+D:\git Code\C-practice\C++作业\Debug\C++作业.pdb
